@@ -1,0 +1,4 @@
+This repo contains the code I wrote for search engine company Yandex.
+They are holding a competition from Oct 15, 2011 to Dec 22, 2011 called "The Relevance Prediction Challenge"
+A 16GB search query log is released. My groupmates and I use rank SVM to predict document relevance for given queries.
+
